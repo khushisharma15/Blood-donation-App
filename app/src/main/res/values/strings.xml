@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Blood Donation</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="bloodgroups">
+        <item>Select your blood group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>o+</item>
+        <item>o-</item>
+    </string-array>
+
+
+</resources>
